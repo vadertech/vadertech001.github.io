@@ -459,7 +459,7 @@ color: white !important;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 762px) {
   .slider h1 {
     font-size: 35px;
     line-height: 1.1;
