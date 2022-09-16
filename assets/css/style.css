@@ -304,6 +304,9 @@ color: white !important;
   .navigation-2 {
     position: relative;
   }
+  
+  .cd-word-wrapper{
+    position:relative
 }
 
 @media (max-width: 400px) {
@@ -479,7 +482,7 @@ color: white !important;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .slider h1 {
     font-size: 35px;
     line-height: 1.1;
@@ -502,7 +505,7 @@ color: white !important;
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 480px) {
   .slider h1 {
     font-size: 55px;
     line-height: 1.1;
